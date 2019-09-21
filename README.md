@@ -1,4 +1,4 @@
-# wine_reccomendation
+# A Taste of French Wine
 
   In this project, I played with a dataset of wine reviews from Wine Enthusiast(https://www.winemag.com/) website. First of all, I summerized status of French wine in the website. Second, I used the aroma word (Noble et al., 1987, modified) paradigm to calculate the aroma component (word count for each aroma word/total word count of aroma word) of wine from different regions(e.g. Bordeaux: plum: 16.8%, blackberrt: 16.4%; Burgundy: apple 13.2%, plum 12.2%...). This can be applied to recommend consumers wine origin of similar aroma component(using L2 distance). Finally, I compared 2 machine learning techniques, naïve Bayes and k nearest neighbor, to categorize wine description to region of origin.
 
