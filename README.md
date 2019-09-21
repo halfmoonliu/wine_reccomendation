@@ -7,4 +7,4 @@
 
 
 
-Please see the pdf file for a quick walk through the project. If you would like to dig into details, please have a look at the Jyputer notebook in the branch.
+Please see the pdf file for a quick walk through the project. If you would like to dig into details, please have a look at the Jupyter notebook in the branch.
