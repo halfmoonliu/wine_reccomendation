@@ -7,4 +7,4 @@
 
 
 
-Please see the pdf file for a quick walk through the project. If you would like to dig into details, please have a look at the Jupyter notebook in the branch. Check also my website(https://halfmoonliu.github.io/posts/wine-recommendation-using-the-aroma-wheel-link/) for more detailed description!
+Please see the pdf file for a quick walk through the project. If you would like to dig into details, please have a look at the Jupyter notebook in the branch. Check also __<ins>my website</ins>__(https://halfmoonliu.github.io/posts/wine-recommendation-using-the-aroma-wheel-link/) for more detailed description!
